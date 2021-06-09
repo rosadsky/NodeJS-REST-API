@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rosadsky/NodeJS-REST-API#readme",
   "devDependencies": {
     "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
   }
 }
